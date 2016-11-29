@@ -5,21 +5,13 @@ Accessible @ https://goo.gl/0NmiaV
 Digital Forensics is my passion - its the ultimate investigative experience in my opinion. I'm also an avid learner, both by hands-on doing and learning from others. To that end, I created a multi-tabbed project for the tracking of Digital Forensics:
 
   Certifications and Training
-  
   Undergraduate Degrees
-  
   Post-Graduate Degrees
-  
   Forensics Associations & Memberships
-  
   Social Resources
-  
   Mages, eMags, and Whitepapers
-  
   Books
-  
   Blogs
-  
   Challenges and Research
   
 
