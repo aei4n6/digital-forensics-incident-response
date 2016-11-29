@@ -19,7 +19,7 @@ If you see a mistake, want to fill in missing information, or add something new,
   - leave a comment directly on the Google sheet
   - send me a tweet [@aei4n6](https://twitter.com/aei4n6 "@aei4n6")
   - connect on [LinkedIn](https://www.linkedin.com/in/devonackerman "LinkedIn")
-  + make sure to send me a message as I don't confirm blind Connect requests
+    - make sure to send me a message as I don't confirm blind Connect requests
 
 I will confirm the suggested edit after reviewing as well as provide you credit in the Change Log.
 
