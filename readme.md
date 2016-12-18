@@ -12,7 +12,12 @@ Digital Forensics/Incident Response is my passion - its the ultimate investigati
   - Mages, eMags, and Whitepapers
   - Books
   - Blogs
-  - Challenges and Research
+  - DataBreach Reports
+  - Challenges and CTF
+  - Research
+  - Hunting
+  - Threat Intelligence
+  - Tools
   
 If you see a mistake, want to fill in missing information, or add something new, you can do so any of the following ways:
 
